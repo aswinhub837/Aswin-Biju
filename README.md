@@ -1,4 +1,4 @@
-# Hi, I'm Aswin Biju ðŸ‘‹
+# Hi, I'm Aswin Biju
 
 **MCA student & aspiring software developer** based in Pathanamthitta, Kerala, India.
 I build database-driven web applications and explore deep learning, and I'm currently looking for an **internship** where I can learn from code reviews and contribute to real-world projects.
@@ -8,7 +8,7 @@ I build database-driven web applications and explore deep learning, and I'm curr
 
 ---
 
-## ðŸ‘¨â€ðŸ’» About Me
+## About Me
 
 I'm a Computer Applications graduate (BCA) currently pursuing my MCA. I work with JavaScript, HTML5, CSS3, React.js and Python (Django, FastAPI), and I've built web applications with Django, PHP and MySQL, plus a deep learning project using Convolutional Neural Networks (CNN).
 
@@ -16,7 +16,7 @@ I have a strong foundation in object-oriented programming, database design, debu
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 | Area | Technologies |
 |---|---|
@@ -24,15 +24,16 @@ I have a strong foundation in object-oriented programming, database design, debu
 | **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black) |
 | **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) RESTful APIs |
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) Database Design & Management |
-| **Concepts** | OOP Â· MVT/MVC Architecture Â· Software Design Â· SDLC Â· Debugging & Testing Â· Code Reviews |
+| **Concepts** | OOP, MVT/MVC Architecture, Software Design, SDLC, Debugging & Testing, Code Reviews |
 
 ---
 
-## ðŸš€ Projects
+## Projects
 
-### ðŸš† Railway Ticket Booking System (RAIL NOVA)
+### Railway Ticket Booking System (RAIL NOVA)
 *MCA Academic Project*
-**Tech:** Python Â· Django Â· HTML Â· CSS Â· JavaScript Â· SQLite
+
+**Tech:** Python, Django, HTML, CSS, JavaScript, SQLite
 
 A web-based online railway ticket booking system built on Django's Model-View-Template (MVT) architecture.
 
@@ -44,9 +45,10 @@ A web-based online railway ticket booking system built on Django's Model-View-Te
 
 ---
 
-### ðŸ¨ Hostel Management System
+### Hostel Management System
 *December 2024*
-**Tech:** PHP Â· MySQL Â· HTML Â· CSS
+
+**Tech:** PHP, MySQL, HTML, CSS
 
 A full-stack web application to manage hostel room bookings and streamline administrative tasks.
 
@@ -56,9 +58,10 @@ A full-stack web application to manage hostel room bookings and streamline admin
 
 ---
 
-### ðŸ§¬ Blood Group Detection Using Fingerprint
+### Blood Group Detection Using Fingerprint
 *April 2025*
-**Tech:** CNN Â· Deep Learning Â· Image Classification
+
+**Tech:** CNN, Deep Learning, Image Classification
 
 A deep learning model that detects blood groups from fingerprint images.
 
@@ -68,18 +71,18 @@ A deep learning model that detects blood groups from fingerprint images.
 
 ---
 
-## ðŸŽ“ Education
+## Education
 
 | Qualification | Institution | Duration |
 |---|---|---|
-| **MCA** (Pursuing) | Musaliar College of Engineering and Technology | Jul 2025 â€“ Jun 2027 |
-| **BCA** | Musaliar College of Arts and Science | Sep 2022 â€“ May 2025 |
-| **Higher Secondary (Class XII)** | Holy Angels Model School | Jun 2021 â€“ May 2022 |
-| **Secondary School (Class X)** | Holy Angels Model School | Jun 2020 â€“ May 2021 |
+| **MCA** (Pursuing) | Musaliar College of Engineering and Technology | Jul 2025 - Jun 2027 |
+| **BCA** | Musaliar College of Arts and Science | Sep 2022 - May 2025 |
+| **Higher Secondary (Class XII)** | Holy Angels Model School | Jun 2021 - May 2022 |
+| **Secondary School (Class X)** | Holy Angels Model School | Jun 2020 - May 2021 |
 
 ---
 
-## ðŸŽ¯ What I'm Looking For
+## What I'm Looking For
 
 An **internship** where I can:
 
@@ -89,12 +92,12 @@ An **internship** where I can:
 
 ---
 
-## ðŸ“« Let's Connect
+## Let's Connect
 
-- ðŸ’¼ LinkedIn: [linkedin.com/in/aswin-biju-23437121b](https://linkedin.com/in/aswin-biju-23437121b)
-- ðŸ“§ Email: [aswinbiju306@gmail.com](mailto:aswinbiju306@gmail.com)
-- ðŸ“ Location: Pathanamthitta, Kerala, India
+- LinkedIn: [linkedin.com/in/aswin-biju-23437121b](https://linkedin.com/in/aswin-biju-23437121b)
+- Email: [aswinbiju306@gmail.com](mailto:aswinbiju306@gmail.com)
+- Location: Pathanamthitta, Kerala, India
 
 ---
 
-â­ Thanks for stopping by!
+Thanks for stopping by!
